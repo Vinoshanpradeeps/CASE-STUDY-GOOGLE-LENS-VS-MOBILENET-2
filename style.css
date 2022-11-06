@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+img{
+    background-color: white;
+}
+.image-responsive{
+    width: 150px;
+    height: 300px;
+}
+.test_image_and_result{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+.result{
+    margin-top: 100px;
+    margin-left: 200px;
+}
